@@ -71,8 +71,7 @@ Dn = data['DataNoisy']
 - A 2D slice extracted from the similarity cube along the inline direction highlights the advantage of SDANet. While the other methods exhibit obvious high‑similarity anomalies, SDANet retains a uniformly low similarity, demonstrating robust signal preservation.
 
 ![2D local similarity slices](https://github.com/lorens5/SDANet/blob/main/Fig/real2b.png)
-```
-```
+
 # :sunrise_over_mountains: Maintainer
 Chao Fu
 
